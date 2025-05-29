@@ -4,3 +4,5 @@ This is a specialized online store dedicated to merchandise from video games. Th
 The target audience is gamers and video game fans who want to collect memorabilia from their favorite franchises.
 
 Many users struggle to find reliable sources to buy game-related physical items. Often, they end up on untrustworthy websites or spend hours searching. This platform offers a safe, centralized hub to explore and “purchase” collectibles sorted by game, type, or popularity — all in one place.
+
+My Jira: https://aza52gersa.atlassian.net/jira/software/projects/SCRUM/summary
