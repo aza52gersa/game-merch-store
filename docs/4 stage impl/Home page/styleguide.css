@@ -1,0 +1,20 @@
+:root {
+    --gray-700: rgba(97, 97, 97, 1);
+    --white: rgba(255, 255, 255, 1);
+    --white-07: rgba(255, 255, 255, 0.7);
+    --primary-500: rgba(34, 128, 239, 1);
+    --neutral-700: rgba(139, 139, 139, 1);
+    --body-1-normal-font-family: "Jost", Helvetica;
+    --body-1-normal-font-weight: 400;
+    --body-1-normal-font-size: 16px;
+    --body-1-normal-letter-spacing: 0px;
+    --body-1-normal-line-height: 150%;
+    --body-1-normal-font-style: normal;
+    --desktop-body-body-2-font-family: "Inter", Helvetica;
+    --desktop-body-body-2-font-weight: 400;
+    --desktop-body-body-2-font-size: 16px;
+    --desktop-body-body-2-letter-spacing: 0px;
+    --desktop-body-body-2-line-height: normal;
+    --desktop-body-body-2-font-style: normal;
+    --elevation-blur: 0px 32px 32px -24px rgba(0, 0, 0, 0.1);
+}
