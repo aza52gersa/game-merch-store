@@ -1,0 +1,164 @@
+.frame {
+    background-color: #e7e7e7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .div {
+    background-color: #e7e7e7;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+}
+
+.frame .div-2 {
+    width: 990px;
+    height: 990px;
+    top: 45px;
+    left: 26px;
+    border-color: #ffecec;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/expedition-33-gustave-print-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    border: 1px solid;
+}
+
+.frame .text-wrapper {
+    position: absolute;
+    top: 79px;
+    left: 1084px;
+    font-family: "Monomaniac One", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 52.5px;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-2 {
+    position: absolute;
+    top: 156px;
+    left: 1089px;
+    font-family: "Monomaniac One", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 52.5px;
+    white-space: nowrap;
+}
+
+.frame .description-hot {
+    position: absolute;
+    top: 233px;
+    left: 1084px;
+    font-family: "Chivo Mono", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 37.5px;
+}
+
+.frame .text-wrapper-3 {
+    position: absolute;
+    top: 824px;
+    left: 1084px;
+    font-family: "Chivo", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 45px;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-4 {
+    position: absolute;
+    top: 890px;
+    left: 1084px;
+    font-family: "Chivo", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 45px;
+    white-space: nowrap;
+}
+
+.frame .div-wrapper {
+    width: 253px;
+    height: 54px;
+    top: 1007px;
+    left: 1084px;
+    background-color: #000000;
+    position: absolute;
+    border: 1px solid;
+}
+
+.frame .text-wrapper-5 {
+    position: absolute;
+    top: 7px;
+    left: 4px;
+    font-family: "Chivo", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 37.5px;
+    white-space: nowrap;
+}
+
+.frame .star {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 936px;
+    left: 1081px;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/union.svg);
+    background-size: 100% 100%;
+}
+
+.frame .star-2 {
+    left: 1185px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 936px;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/union.svg);
+    background-size: 100% 100%;
+}
+
+.frame .star-3 {
+    left: 1237px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 936px;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/union.svg);
+    background-size: 100% 100%;
+}
+
+.frame .star-4 {
+    left: 1287px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 936px;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/union.svg);
+    background-size: 100% 100%;
+}
+
+.frame .star-5 {
+    left: 1135px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 936px;
+    background-image: url(https://c.animaapp.com/mbg8ep7fG4a20B/img/union.svg);
+    background-size: 100% 100%;
+}
